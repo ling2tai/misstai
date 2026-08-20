@@ -12,27 +12,27 @@
 
 [[main]]
   name = "About"
-  pageRef = "about.md"
+  pageRef = "about"
   weight = 10 
 
 [[main]]
   name = "Blog"
-  pageRef = "categories/blogs"
+  pageRef = "posts"
   weight = 11
 
 [[main]]
   name = "Talks"
-  pageRef = "categories/talks"
+  pageRef = "talks"
   weight = 12
 
 [[main]]
   name = "Papers"
-  pageRef = "categories/papers"
+  pageRef = "papers"
   weight = 13
 
 [[main]]
   name = "Projects"
-  pageRef = "categories/projects"
+  pageRef = "projects"
   weight = 14
 
 #[[main]]

@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-# title = "Ling Ling"
+title = "Ling Ling"
 
 [params]
   displayName = "EN"
@@ -10,7 +10,7 @@ weight = 1
   rtl = false
   dateFormat = "2 January 2006"
   logo = "LL logo.png"
-  # secondaryLogo = "LL logo.png"
+  secondaryLogo = "LL logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 

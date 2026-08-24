@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on </title>
+    <link>http://localhost:1313/misstai/categories/talks/</link>
+    <description>Recent content in Talks on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>linglingtai@pm.me (Ling Ling, Tai)</managingEditor>
+    <webMaster>linglingtai@pm.me (Ling Ling, Tai)</webMaster>
+    <copyright>© 2026 Ling Ling, Tai</copyright>
+    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/misstai/categories/talks/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Zomi Adapt to Life in Malaysia?</title>
+      <link>http://localhost:1313/misstai/talks/how-zomi-adapt-to-msia/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0800</pubDate>
+      <author>linglingtai@pm.me (Ling Ling, Tai)</author>
+      <guid>http://localhost:1313/misstai/talks/how-zomi-adapt-to-msia/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/misstai/talks/how-zomi-adapt-to-msia/featured.png" />
+    </item>
+    
+    <item>
+      <title>Examining Zomi Refugees Psychological Adaptation</title>
+      <link>http://localhost:1313/misstai/talks/zomi-psychological-adaptation/</link>
+      <pubDate>Wed, 29 Mar 2023 00:00:00 +0800</pubDate>
+      <author>linglingtai@pm.me (Ling Ling, Tai)</author>
+      <guid>http://localhost:1313/misstai/talks/zomi-psychological-adaptation/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/misstai/talks/zomi-psychological-adaptation/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

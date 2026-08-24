@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ling Ling</title>
+    <link>http://localhost:1313/misstai/tags/</link>
+    <description>Recent content in Tags on Ling Ling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>linglingtai@pm.me (Ling Ling, Tai)</managingEditor>
+    <webMaster>linglingtai@pm.me (Ling Ling, Tai)</webMaster>
+    <copyright>© 2026 Ling Ling, Tai</copyright>
+    <atom:link href="http://localhost:1313/misstai/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

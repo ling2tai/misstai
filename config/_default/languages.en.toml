@@ -2,25 +2,25 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Ling Ling"
+# title = "Ling Ling"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  logo = "LL logo.png"
+  # secondaryLogo = "LL logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
    name = "Ling Ling, Tai"
    email = "linglingtai@pm.me"
-   image = "img/Ling2-hero.jpg"
+   image = "Ling2-hero.jpg"
 #   imageQuality = 96
    headline = "Doctoral Researcher & Intercultural Psychologist"
-   bio = "The socical psychology of intercultural relations, migration, and refugees."
+   bio = "Doctoral Researcher & Intercultural Psychologist"
    links = [
      { email = "mailto:linglingtai@pm.me" },
 #     { link = "https://link-to-some-website.com/" },
@@ -76,5 +76,5 @@ title = "Ling Ling"
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
-#     { printables = "https://www.printables.com/@username"}
+#     { printables = "https://www.printables.com/@username"},
   ]

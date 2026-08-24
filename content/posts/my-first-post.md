@@ -1,8 +1,7 @@
 +++
 date = '2026-08-18T11:49:32+01:00'
-draft = true
-categories = 'blog'
-title = 'Test Post'
+draft = false
+title ='Test Post'
 +++
 
 ## Introduction

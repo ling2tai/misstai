@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ling Ling</title>
+    <link>http://localhost:1313/misstai/</link>
+    <description>Recent content on Ling Ling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>linglingtai@pm.me (Ling Ling, Tai)</managingEditor>
+    <webMaster>linglingtai@pm.me (Ling Ling, Tai)</webMaster>
+    <copyright>© 2026 Ling Ling, Tai</copyright>
+    <lastBuildDate>Sat, 22 Aug 2026 11:49:32 +0100</lastBuildDate><atom:link href="http://localhost:1313/misstai/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/misstai/about/</link>
+      <pubDate>Sat, 22 Aug 2026 11:49:32 +0100</pubDate>
+      <author>linglingtai@pm.me (Ling Ling, Tai)</author>
+      <guid>http://localhost:1313/misstai/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Test Post</title>
+      <link>http://localhost:1313/misstai/posts/my-first-post/</link>
+      <pubDate>Tue, 18 Aug 2026 11:49:32 +0100</pubDate>
+      <author>linglingtai@pm.me (Ling Ling, Tai)</author>
+      <guid>http://localhost:1313/misstai/posts/my-first-post/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The &#34;One for Another&#34; Project</title>
+      <link>http://localhost:1313/misstai/projects/one-for-another/</link>
+      <pubDate>Tue, 30 Nov 2021 11:49:32 +0100</pubDate>
+      <author>linglingtai@pm.me (Ling Ling, Tai)</author>
+      <guid>http://localhost:1313/misstai/projects/one-for-another/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/misstai/projects/one-for-another/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

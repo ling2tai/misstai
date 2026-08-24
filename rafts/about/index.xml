@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Ling Ling</title>
+    <link>http://localhost:1313/misstai/about/</link>
+    <description>Recent content in Abouts on Ling Ling</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>linglingtai@pm.me (Ling Ling, Tai)</managingEditor>
+    <webMaster>linglingtai@pm.me (Ling Ling, Tai)</webMaster>
+    <copyright>© 2026 Ling Ling, Tai</copyright>
+    <lastBuildDate>Sat, 22 Aug 2026 11:49:32 +0100</lastBuildDate><atom:link href="http://localhost:1313/misstai/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/misstai/about/about/</link>
+      <pubDate>Sat, 22 Aug 2026 11:49:32 +0100</pubDate>
+      <author>linglingtai@pm.me (Ling Ling, Tai)</author>
+      <guid>http://localhost:1313/misstai/about/about/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

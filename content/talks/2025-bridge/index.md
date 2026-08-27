@@ -11,12 +11,12 @@ title = 'BRIDGE: Connecting Lived Experience & Refugee Mental Healthcare'
 
 This 70-minute virtual panel brings together researchers, practitioners, and refugees who have lived and worked within displacement contexts across West and Southeast Asia. Panelists will discuss the unique psychological and sociocultural adaptation processes of refugees in both resettled and transit countries, highlighting how these experiences differ from other migrant groups. The discussion will also deepen understanding of the specific needs and strengths of women refugees, offering insights to enhance culturally responsive mental health practice.
 
-Panelists:
+**Panelists**
 - Kinara Yang, PharmD, RPh
 - Sanaz Yaghmai, PsyD
 - Ling Ling Tai, Ling Ling Tai, MPsych
 
-Moderators
+**Moderators**
 - Jennifer Young, PsyD 
 - Jacinda Lee, ALMFT
 

@@ -1,6 +1,0 @@
-This favicon was generated using the following font:
-
-- Font Title: Luxurious Script
-- Font Author: undefined
-- Font Source: https://fonts.gstatic.com/s/luxuriousscript/v9/ahcCv9e7yydulT32KZ0rBIoD7DzMg0rOby1JtYk.ttf
-- Font License: undefined)

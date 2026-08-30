@@ -33,6 +33,11 @@ further underscores the diverse challenges and factors that influence asylum-see
 adaptation. This imbalance raises concerns that current research, policies, and programs may not
 fully capture or address the complex realities of forced migration and resettlement.
 
+This presentation took place at the:
+- [Joint IAIR & IACCP Conference](https://intercultural-academy.net/past-conferences/), on the 28 June 2025, at the University of Queensland, Brisbane, Australia.
+- [XX PhD Meeting In Psychology](https://phdmeeting.dpso.iscte.pt/edition/XX/), on the 23 May 2025, at Iscte-University Institute of Lisbon, Portugal.
+- [83rd Annual Conference of the International Council of Psychologists (ICP 2025) Human Rights, Justice, and Dignity: Social Inclusion & Migration](https://icpweb.org/icp-annual-conference/icp2025-summary/), on the 5th of April 2025, at the Erasmus University College, Rotterdam, the Netherlands.
+
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -41,5 +46,3 @@ fully capture or address the complex realities of forced migration and resettlem
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGjYK9AlsY&#x2F;fu37P7jgrsBiSL97CG_DuQ&#x2F;view?utm_content=DAGjYK9AlsY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">New Arrival? A Systematic Review of Refugee's Psychological & Sociocultural Adaptation</a> by Ling Ling
-
-This presentation took place at the [Joint IAIR & IACCP Conference](https://intercultural-academy.net/past-conferences/), from 27 June – 1 July 2025, at the University of Queensland, Brisbane, Australia. 

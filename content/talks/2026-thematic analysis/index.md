@@ -1,5 +1,5 @@
 +++
-date = '2025-07-02T00:00:00+00:00'
+date = '2026-07-02T00:00:00+00:00'
 draft = false
 categories = 'talks'
 description = 'This thematic analysis examines adaptation experiences of asylum-seekers and refugees across three countries.'
@@ -21,6 +21,7 @@ Overall, our findings reveal that ASR experiences are unique, influenced by cont
 
 *Keywords:* refugees, asylum-seekers, psychological adaptation, sociocultural adaptation
 
+This oral presentation took place at the [IACCP Conference](https://iaccp2026.com), from 14-18 July 2026, at the KU Leuven, Belgium.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
@@ -31,4 +32,3 @@ Overall, our findings reveal that ASR experiences are unique, influenced by cont
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAHLoV37nPw&#x2F;Hekl3rE0JVUUvajtB41ofQ&#x2F;view?utm_content=DAHLoV37nPw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Psychological and Sociocultural Adaptation of Asylum-Seekers and Refugees: A Thematic-Analysis</a> by Ling Ling
 
-This presentation took place at the [IACCP Conference](https://iaccp2026.com), from 14-18 July 2026, at the KU Leuven, Belgium.

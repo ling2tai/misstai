@@ -1,5 +1,5 @@
 +++
-date = '2023-04-06T00:00:00+08:00'
+date = '2023-04-30T00:00:00+08:00'
 draft = false
 categories = 'talks'
 description = 'Many Zomi, an ethnic group from Myanmar, fled to Malaysia due to internal conflict. Research has shown Zomi are uniquely resilient in the face of hardship. Can we learn from them?'
@@ -16,7 +16,9 @@ Along with presenting the research findings to our supportive partner, the North
 
 A significant finding from this research is that Zomi found ways to protect their psychological well-being from the negative experiences of the loss of control from forced displacement. Check out the presentation to find out possible reasons for how they have done this. 
 
-The presentation took place on the 6th of April, 2023. The research project was accomplished with the openness, support, guidance and dedication of Tg. Paupi, Franklin Morais and the CTC staff.
+This presentation took place on the:
+- 6 April 2023, Children's Training Centre, Kuala Lumpur, Malaysia
+- 15 March 2023, Zomi Association of Malaysia (ZAM), Kuala Lumpur, Malaysia.
 
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;

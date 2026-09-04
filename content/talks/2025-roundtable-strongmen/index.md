@@ -7,8 +7,10 @@ title = 'Strongmen and the Othering of Migrants: Power and Meritocracy in Societ
 +++
 
 **Chair:** Sharon Coen (University of Salford, United Kingdom)
+
 **Authors:** Polli Hagenaars (C5, private practice), Mary Beth Kenkel (Florida Institute of Technology), Ling Ling Tai (CIS-iscte), Josephine Tan (Lakehead University), Elaine Oloaye (Brookdale Community College), Ibeh Agbanyim (Grand Canyon University), Elaine Congress (Fordham University), Stephanie Szeto (St. Francis University), Sijohn Joseph (Chaithanya Psychotherapy Center)
-**Presenters:**Polli Hagenaars (C5, private practice), Mary Beth Kenkel (Florida Institute of Technology), Ling Ling Tai (CIS-iscte)
+
+**Presenters:** Polli Hagenaars (C5, private practice), Mary Beth Kenkel (Florida Institute of Technology), Ling Ling Tai (CIS-iscte)
 
 ## Abstract
 This roundtable discussion – emerging from discussions held in the ICP’s Psychology of Democracy Reading Group – will
@@ -18,4 +20,4 @@ fundamental belief, that underpins much of the current populist rhetoric is ofte
 ## Short Abstract
 In light of discussions held in the Psychology and Democracy interest group at ICP, this roundtable aims to unravel the nexus between the perception of migrants and refugees and psychological processes of attribution of power and authority, populism, and meritocracy.
 
-This roundtable took place at the [IACCP Conference](https://iaccp2026.com), on the 4th April 2025, at the Erasmus University College, Rotterdam, the Netherlands.
+This roundtable took place at the [ICP Conference](https://icpweb.org/icp-annual-conference/icp2025-summary/), on the 4th April 2025, at the Erasmus University College, Rotterdam, the Netherlands.
